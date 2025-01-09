@@ -1,5 +1,5 @@
 # NumberGuessingGame
-A simple CLI application. This application is solution for the number guessing game pet-project from roadmap.sh
+A simple CLI application. This application is solution for the number guessing game pet-project from site: https://roadmap.sh/projects/number-guessing-game
 
 ## Introduction
 ---------------
