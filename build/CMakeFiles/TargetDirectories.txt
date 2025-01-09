@@ -1,3 +1,0 @@
-/Users/alexander/Desktop/Учеба/myprojects/number_guessing_game/build/CMakeFiles/NumberGuessingGame.dir
-/Users/alexander/Desktop/Учеба/myprojects/number_guessing_game/build/CMakeFiles/edit_cache.dir
-/Users/alexander/Desktop/Учеба/myprojects/number_guessing_game/build/CMakeFiles/rebuild_cache.dir
